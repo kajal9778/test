@@ -3,5 +3,3 @@ Spring Boot ..................
 Spring Boot Tutorial provides basic and advanced concepts of Spring Framework. 
 Our Spring Boot Tutorial is designed for beginners and professionals both.
 Spring Boot is a Spring module that provides the RAD (Rapid Application Development) feature to the Spring framework.
-
-Divyanshi Purohit
